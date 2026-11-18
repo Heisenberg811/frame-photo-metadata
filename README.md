@@ -1,11 +1,11 @@
-# Frame — Photo & Video Metadata Studio
+# Frame 照片与视频元数据工具
 
-A macOS app for viewing and editing photo and video metadata, including dates, GPS, and Live Photo pairs.
+Frame 是一款 macOS 应用，可查看和编辑照片、视频的拍摄时间、GPS 等元数据，并保留 Live Photo 的照片与视频配对。
 
-## Download
+## 下载
 
-[Download Frame.app.zip](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip)
+[点击下载 Frame.app.zip](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip)
 
-Unzip the archive, then move `Frame.app` to Applications. This build bundles ExifTool 13.60 and its Perl modules. ExifTool's third-party notice and source modules are included inside the app at `Contents/Resources/ExifTool`.
+下载后解压，将 `Frame.app` 拖入“应用程序”文件夹，再双击打开。本版本已内置 ExifTool 13.60 及其 Perl 模块，无需另外安装 ExifTool。ExifTool 的第三方声明和模块源码包含在 app 的 `Contents/Resources/ExifTool` 目录中。
 
-The app is ad hoc signed and not notarized. macOS may show a security warning when opening it.
+**首次打开提示：**此版本尚未使用 Apple Developer ID 签名和公证。macOS 可能显示安全提示；公证后能让首次启动流程更顺畅。
