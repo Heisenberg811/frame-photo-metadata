@@ -1,16 +1,30 @@
 # Frame 照片与视频元数据工具 | Photo & Video Metadata Studio
 
+**当前版本 | Current version: 1.0.0**
+
 Frame 是一款 macOS 应用，可查看和编辑照片、视频的拍摄时间、GPS 等元数据，并保留 Live Photo 的照片与视频配对。
 
 Frame is a macOS app for viewing and editing photo and video metadata, including capture dates, GPS, and Live Photo pairs.
 
 ## 下载 | Download
 
-[下载 macOS 版本 Frame.app.zip | Download Frame for macOS](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip)
+[下载最新版 Frame 1.0.0 | Download Frame 1.0.0 for macOS](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip)
 
 下载后解压，将 `Frame.app` 拖入“应用程序”文件夹，再双击打开。本版本已内置 ExifTool 13.60 及其 Perl 模块，无需另外安装 ExifTool。
 
 Unzip the download, move `Frame.app` to Applications, and open it. ExifTool 13.60 and its Perl modules are bundled; no separate ExifTool installation is needed.
+
+## 版本历史 | Version history
+
+| 版本 | 说明 | 下载 |
+| --- | --- | --- |
+| **1.0.0** | 当前正式版：中英双语界面、新图标、内置 ExifTool。 | [下载最新版](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip) |
+| 0.1.0 | 早期中文预览版，已由 1.0.0 取代。 | [下载旧版](https://github.com/Heisenberg811/frame-photo-metadata/raw/d2d63f1/Frame.app.zip) |
+
+| Version | Notes | Download |
+| --- | --- | --- |
+| **1.0.0** | Current public release: Chinese and English UI, refreshed icon, bundled ExifTool. | [Latest version](https://github.com/Heisenberg811/frame-photo-metadata/raw/refs/heads/main/Frame.app.zip) |
+| 0.1.0 | Earlier Chinese-only preview, superseded by 1.0.0. | [Previous version](https://github.com/Heisenberg811/frame-photo-metadata/raw/d2d63f1/Frame.app.zip) |
 
 ### 语言 | Language
 
